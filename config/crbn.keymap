@@ -36,7 +36,7 @@
 				&trans &trans &trans &trans &trans &trans &trans &mo 3 &kp C_NEXT &kp C_VOL_DN &kp C_VOL_UP &kp C_PP
 			>;
 
-			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+			sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
 		};
 
 		raise {
