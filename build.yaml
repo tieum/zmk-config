@@ -13,4 +13,5 @@
 #
 ---
 include:
-  - board: void40
+  - board: nice_nano
+    shield: void40
